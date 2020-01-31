@@ -1,7 +1,7 @@
 # homebanking-simulation
 Proyecto pensado para practicar funciones básicas de JavaScript.
 
-# Funcionalidades
+## Funcionalidades
 El proyecto presenta un saldo inicial con el cual se pueden hacer las siguientes operaciones:
 
 - Extraer dinero
